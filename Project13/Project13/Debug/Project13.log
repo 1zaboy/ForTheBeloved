@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\vlad\project13\project13\header.h(33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project13.vcxproj -> C:\Vlad\Project13\Debug\Project13.exe
